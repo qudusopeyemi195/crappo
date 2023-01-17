@@ -7,7 +7,7 @@ import earth from '../assets/images/Earth.png';
 
 const CountUpContent = ({ limit, imgSrc, text, numb, doll }) => {
   return (
-  <div className="flex items-center space-x-4 py-5 lg:py-0">
+  <div className="flex items-center py-5 lg:py-0 space-x-4">
     <div className="bg-white/5 p-4 rounded-full">
       <img src={imgSrc} alt="/" />
     </div>
@@ -35,7 +35,6 @@ const CountUpContent = ({ limit, imgSrc, text, numb, doll }) => {
 const CountUpSection = () => {
   const reveal = () => {
     let reveals = document.querySelectorAll('.reveal')
-
 
     for (let i = 0; i < reveals.length; i++) {
         let windowheight = window.innerHeight;
