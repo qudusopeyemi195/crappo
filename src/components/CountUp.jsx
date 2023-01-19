@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React, { useEffect } from 'react';
 import ReactVisibilitySensor from 'react-visibility-sensor';
 import CountUp from 'react-countup';
 import chart from '../assets/images/BarChart.png';
