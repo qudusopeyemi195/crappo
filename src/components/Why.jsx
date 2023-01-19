@@ -5,7 +5,7 @@ import crappo from "../assets/images/whycrappo.png";
 
 const Why = () => {
   return (
-    <section className="relative w-full max-w-[1200px] mx-auto md:px-10 px-4 lg:pt-32 pt-0 pb-4 md:16"> {/**bg-white/5  */}
+    <section className="relative w-full max-w-[1200px] mx-auto md:px-10 px-4 lg:pt-32 pt-0 pb-4 md:16">
       <CountUp />
       <div className="grid md:grid-cols-2 gap-8 justify-between items-center w-full pt-4 md:pt-16">
         <div className="relative">
