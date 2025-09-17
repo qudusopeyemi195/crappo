@@ -77,7 +77,7 @@ const Footer = () => {
         </div>
         <div className="text-center pt-3">
           <p className="text-sm">
-            Built by <a href="http://twitter.com/0xrasheed" target="_blank" rel="noopener noreferrer">Rasheed</a>
+            Built by <a href="http://x.com/qudus_oduwole" target="_blank" rel="noopener noreferrer">Oduwole Qudus Opeyemi</a>
           </p>
         </div>
       </div>
